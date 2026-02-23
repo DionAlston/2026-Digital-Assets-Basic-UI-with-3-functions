@@ -16,7 +16,7 @@ class GameSuite
 		Console.WriteLine("| [1] Naughts and Crosses (vs. another player)   |");
 		Console.WriteLine("| [2] Scissors Paper Rock (vs. Computer)         |");
 		Console.WriteLine("| [3] EXIT                                       |");
-		Console.WriteLine("| Please submit prompt below:			          		|");
+		Console.WriteLine("| Please submit prompt below:	          		|");
 		Console.WriteLine(" ————————————————————————————————————————————————");
 		// TODO: ABOVE: Make game menu - Lines C.W/L, 1-NC, 2-SPR, 3-EXIT, Please select option. RM C.C (?)
 		
